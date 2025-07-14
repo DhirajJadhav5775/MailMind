@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MailMindApplication<MailMind>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.MailAI.MailMind.MailMindApplication",
+            "projectName": "MailMind",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
